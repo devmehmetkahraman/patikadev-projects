@@ -6,4 +6,4 @@ This repo has projects that I created to achieve my learning progress on Patika.
 -   Veri Yapıları ve Algoritmalar
 -   Git
 -   Visual Studio Code
--   [https://www.patika.dev](patika.dev)
+-   [patika](https://www.patika.dev)
